@@ -29,6 +29,7 @@ const sections = [
     items: [
       { title: 'TradeTime', img: '/img/homepage.png', href: 'https://www.figma.com/proto/6f84eTidHmfcYpnED6RjkJ/tradetime---Section2?node-id=613-1400&p=f&t=XGT043wfDaoBF7vN-1&scaling=min-zoom&content-scaling=fixed&page-id=548%3A2960&starting-point-node-id=613%3A1400', text: 'TradeTime is a community-driven, local "TimeBank" platform designed to help neighbors exchange skills without using traditional money. The application allows users to "earn" hours by helping others and then "spend" those hours to receive help themselves.' },
       { title: 'Awesome Todos', img: '/img/todo.png', href: 'https://todoapp-by0z.onrender.com/', text: 'Awesome Todos is a digital checklist that helps you organize and track your daily tasks in real time, letting you instantly save, track, and permanently delete tasks through a simple, interactive interface.' },
+      { title: 'UServe', img: '/img/userve.png', text: 'A full-stack digital portal for Barangay Ungka II that lets residents register for accounts, report community incidents with photos, browse and join local events, and view barangay/SK/health center officials' },
       { title: 'Product showcase', img: '/img/prod.png', text: 'Creating high-impact visual strategy that uses minimalist environments, dramatic lighting, and "hero" 3D perspectives to strip away distractions and elevate a product into a premium, functional piece of art.' },
     ],
   },
